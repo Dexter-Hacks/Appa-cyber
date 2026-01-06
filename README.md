@@ -31,7 +31,7 @@
 <br>
 
 <p align="center">
-    <img align="center" alt="visitors" src="https://profile-counter.deno.dev/WhiteHat-Hunter/count.svg" />
+    <img align="center" alt="visitors" src="https://profile-counter.deno.dev/Appa-cyber/count.svg" />
 </p>
 
 <br>
