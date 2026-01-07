@@ -20,7 +20,7 @@
 <ul align="center">- 🌱 I'm Also a Cyber Security Analyst, Security Researcher & Bug Bounty Hunter.</ul>
 <ul align="center">- 🎯 2026 Goal: Become a Professional Red Team Operator.</ul>
 <ul align="center">- 💬 Ask Me Anything, related to Cyber Security and Penetration Testing, Ready to Help. 😄</ul>
-<ul align="center">- 📫 Reach me on - mailto:itsak6009@gmail.com.com </ul>
+<ul align="center">- 📫 Reach me on - mailto:itsak6009@gmail.com </ul>
 <ul align="center">-  📞 Contact me : Whatsapp - wa.me/+918409616612</ul>
 <ul align="center">- ⚡ Fun fact  -  " The First Computer Virus was a Creeper. "</ul>
 
