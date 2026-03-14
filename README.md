@@ -7,7 +7,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="fading line"/>
 
 <p>
-<h1 align="center"><b> <img alt="hello" src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" width="110" height="90"/> I'm Anurag kumar Gupta [ Appa-Cyber ] <img alt="gif" src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="60" height="60"/></b></h1>
+<h1 align="center"><b> <img alt="hello" src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" width="110" height="90"/> I'm Anurag kumar Gupta [ Dexter-X ] <img alt="gif" src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="60" height="60"/></b></h1>
 </p>
 
 <br>
